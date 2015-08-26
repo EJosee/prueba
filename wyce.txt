@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Este archivo fue creado en pc
+=======
+Creado en el repositorio
+>>>>>>> edd9a24ca26cc9bfc9fbfc6d54f90d10fd3aa69e
